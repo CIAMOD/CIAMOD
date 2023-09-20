@@ -76,3 +76,6 @@ Special thanks to everyone who contributed to the project:
 
 Citation placeholders will be filled as research progresses.
 
+## Association
+
+Project financed by the [Institute for Research in Technology](https://www.iit.comillas.edu/proyectos/mostrar_proyecto.php.es?nombre_abreviado=CIAMOD) 
