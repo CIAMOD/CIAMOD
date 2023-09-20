@@ -57,7 +57,7 @@ Instructions on how to run the software or code will be updated soon.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file in each repository for details.
+This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](LICENSE.md) file in each repository for details.
 
 ## Acknowledgments
 
