@@ -1,5 +1,6 @@
 # CIAMOD
 ### Applications of computational methods and artificial intelligence to the study of moduli spaces
+![CIAMOD logo](https://github.com/CIAMOD/CIAMOD/raw/master/logo_complete.png)
 
 ## Table of Contents
 
