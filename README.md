@@ -40,17 +40,6 @@ Markov triples are integer solutions to the equation \(x^2 + y^2 + z^2 = 3xyz\).
 - Python >= 3.7
 - PyTorch >= 1.9.0
 - NumPy
-
-### Installation
-
-1. Clone the repository
-   ```sh
-   git clone https://github.com/your_username/AI_for_Math_Development.git
-   ```
-2. Install the required packages
-   ```sh
-   pip install -r requirements.txt
-   ```
 ## Usage
 
 Instructions on how to run the software or code will be updated soon.
