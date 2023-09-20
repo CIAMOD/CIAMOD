@@ -55,27 +55,6 @@ Markov triples are integer solutions to the equation \(x^2 + y^2 + z^2 = 3xyz\).
 
 Instructions on how to run the software or code will be updated soon.
 
-## License
-
-This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](LICENSE.md) file in each repository for details.
-
-## Acknowledgments
-
-Special thanks to everyone who contributed to the project:
-
-- David Alfaya Sánchez (PI), Department of Applied Mathematics, ICAI, IIT
-- Javier Rodrigo Hitos, Department of Applied Mathematics, ICAI
-- Luis Ángel Calvo Pascual, Department of Quantitative Methods, ICADE
-- Anitha Srinivasan, Department of Quantitative Methods, ICADE
-- José Portela González, Department of Quantitative Methods, ICADE, IIT
-- Jaime Pizarroso Gonzalo, Department of Telematics and Computing, ICAI
-- Tomás Luis Gómez de Quiroga, Institute of Mathematical Sciences, UAM-UCM-UC3M-CSIC
-- Daniel Sánchez Sánchez, Student of the Degree in Mathematical Engineering and Artificial Intelligence, ICAI
-- Alejandro García Martínez de Guinea, Student of the Degree in Mathematical Engineering and Artificial Intelligence, ICAI
-- Sergio Herreros Pérez, Student of the Degree in Mathematical Engineering and Artificial Intelligence, ICAI
-
-Citation placeholders will be filled as research progresses.
-
 ## Association
 
 Project financed by the [Institute for Research in Technology](https://www.iit.comillas.edu/proyectos/mostrar_proyecto.php.es?nombre_abreviado=CIAMOD) 
